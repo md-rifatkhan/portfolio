@@ -73,10 +73,28 @@
 |                 |                                   | ![To-Do App 3](https://yourlink.com/todo-app3.png)                                          |
 | Weather App      | A weather forecasting app providing real-time updates and alerts. | ![Weather App 1](https://yourlink.com/weather-app1.png) ![Weather App 2](https://yourlink.com/weather-app2.png) |
 |                 |                                   | ![Weather App 3](https://yourlink.com/weather-app3.png)                                      |
+## 🔗 Find Me On
 
+<div align="start">
+    <a href="https://twitter.com/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://facebook.com/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="https://fiverr.com/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+    </a>
+</div>
 
+<br>
 
+```
+🙏 Thanks for Checking Out My Portfolio!
+```
 
+<!-- Will do something with this later :)-->
+<!-- 
 ## 🛠️ Installation
 
 To run this project locally, follow these steps:
@@ -84,3 +102,5 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/md-rifatkhan/portfolio.git
+
+ -->  
